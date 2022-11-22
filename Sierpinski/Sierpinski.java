@@ -1,11 +1,3 @@
-/*************************************************************************
- *  Compilation:  javac Sierpinski.java
- *  Execution:    java Sierpinski
- *
- *  @author: Justas Kalesnykas jk1917
- *
- *************************************************************************/
-
 public class Sierpinski {
 
     // Height of an equilateral triangle whose sides are of the specified length. 
