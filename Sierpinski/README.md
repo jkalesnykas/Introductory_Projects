@@ -4,7 +4,7 @@ The Polish mathematician Wacław Sierpiński described the Sierpinski pattern in
 
 **Prerequisites**
 
-The individual running this simulation must supply the program with *n* when executing, where *n* is the order of the drawn triangles: 1 filled triangle for n = 1; 4 filled triangles for n = 2, etc.
+The individual running this simulation must supply the program with *n* when executing, where *n* is the order of the drawn triangles: 1 filled triangle for *n* = 1; 4 filled triangles for *n* = 2, etc.
 
 StdIn, StdOut, StdDraw are all assumed to be installed.
 
