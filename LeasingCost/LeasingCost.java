@@ -192,7 +192,7 @@ public class LeasingCost {
        How to run: java LeasingCost vehicles.txt (gas price) (electricity price) 
     */
 
-	public static void main (String[] args) {
+    public static void main (String[] args) {
         
     String filename = args[0];
 
