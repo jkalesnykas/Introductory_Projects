@@ -38,7 +38,7 @@ Lease.java, where objects built from Lease class contain information of:
   -> Mileage allowance per month during the lease
   
 Vehicle.java, where objects built from Vehicle class contain information of:
-  -> Name of the vehicl,
+  -> Name of the vehicle,
   -> A fuel object and a lease object described above
 
 Vehicles.txt, which contains the information of vehicles. 
