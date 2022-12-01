@@ -8,7 +8,7 @@ To simplify our model assume leased cars. When leasing a car we only consider: t
 
 We also consider the price of gas for gasoline-powered vehicles and electricity for electricity-powered vehicles. Because both gasoline and electricity prices vary from time to time, we will obtain this information from the user when we execute the program.
 
-Additionally, in order to compute CO2 emissions, we will consider the following facts: According to the EPA, there are 8.887 kg of CO2 released with the combustion of each gallon of gasoline (gas-powered cars). Similarly, 998.4 pounds of CO2 are emitted per mWh on average across the United States (electricity-powered cars).
+Additionally, in order to compute CO2 emissions, we will consider the following facts: according to the EPA, there are 8.887 kg of CO2 released with the combustion of each gallon of gasoline (gas-powered cars). Similarly, 998.4 pounds of CO2 are emitted per mWh on average across the United States (electricity-powered cars).
                                   
 **Prerequisites**
 
