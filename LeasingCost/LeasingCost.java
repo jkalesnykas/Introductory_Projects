@@ -1,4 +1,4 @@
-public class LeasingCost {
+public class CarLease {
 
      /* This method creates an array of Vehicles objects from the given file name */
 
