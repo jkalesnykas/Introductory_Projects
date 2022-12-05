@@ -32,3 +32,5 @@ Conclude the algorithm with LeaseCars.java, the primary basis that brings the pr
 createVehicle: This method creates and returns a Vehicle object with name, Lease, and Fuel properly populated based on the given string the string given to this method is each line of description in vehicles.txt.
 
 computeCO2EmissionsAndCost: This method calculates and assigns CO2Emission, FuelCost, LeaseCost, of each vehicle.
+
+*Please note that although this class was created by Justas Kalesnykas (I, the author), all other classes were collaboratively created with: Ana Paul Centeno, as well as Haolin (Daniel) Jin.*
