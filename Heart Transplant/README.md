@@ -16,7 +16,9 @@ SurvivabilityByCause.java: Stores information about the survivability of patient
 
 Patient.java: Stores patient information. Contain constants representing patient codes (health condition code, gender code, urgency code, ethnicity code…)
 
-Data.txt: Contains patient information, as well as survivability by age and cause rates. This file should be piped when executing HeartTransplantDriver.
+Data.txt: Contains patient information, as well as survivability by age and cause rates. This file should be piped when executing HeartTransplantDriver. Person:
+The first line of this section has an integer that refers to the number of persons in the file. The file has one person per line in the following format: *PersonID Ethinicity Gender Age Cause Urgency StateOfHealth*. Survivability by age: The first line of this section has an integer that refers to the number of survivability by age rates in the file. The file has one rate per line in the following format: *Age YearsPostTransplant Rate*. Ssurvivability by heart condition cause: The first line of this section has an integer that refers to the number of survivability by cause rates in the file. The file has one rate per line in the following format:
+*Cause YearsPostTransplant Rate*. 
 
 How to run the driver: 
 
@@ -32,3 +34,5 @@ Assignment Goal
 Conclude the algorithm with HeartTransplant.java, which is designated as an empty file. This file is to be filled up with a multitude of methods, such as getPatients(), getSurvivabilityByAge(), readPatients() ... getPatientForTransplant(), etc. Overall, once again as stated in the objective previously, the primary goal of this project is to write a HeartTransplant class that has the ability to select the patient, from a pool of patients, with the highest potential to survive the longest after the heart transplant surgery.
 
 *Please note that although this class was created by Justas Kalesnykas (I, the author), all other classes were collaboratively created with: Ana Paul Centeno, as well as Haolin (Daniel) Jin.*
+
+Furthermore information can be found in the designated files.
